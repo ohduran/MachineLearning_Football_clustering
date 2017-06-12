@@ -1,5 +1,5 @@
 # Football players' clustering with Machine Learning
-_A beginner's Data Science analysis on season 2016-2017 Real Madrid, Barcelona and Atletico de Madrid players_
+_A Data Science analysis on season 2016-2017 Real Madrid, Barcelona and Atletico de Madrid players_
 
 ## Description
 Using the sklearn.clusters library, and data from season 2016-2017 for players on the top 3 teams in LaLiga football league, I developed an algorithm that divides all players into four teams, and fine-tunes our approach to the sport by means of naming defenders, midfielders and forwards.
